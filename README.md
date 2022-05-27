@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sjdemoor
+- 👀 I’m interested in statistical modeling.
+- 🌱 I’m currently writing in Python, Perl & MatLab.
+- 💞️ I’m looking to collaborate on regression analyses, data science, statistical modeling.
+- 📫 How to reach me ... sj_demoor@yahoo.com
